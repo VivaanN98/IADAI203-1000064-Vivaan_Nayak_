@@ -27,6 +27,6 @@ This project explores **Instagram engagement metrics**, analyzing **likes, comme
 📌 **Tableau Public Storyboard**: (https://public.tableau.com/app/profile/vivaan.nayak/viz/Book3_17406830058920/Storyboard?publish=yes)
 
 ## 🔗 GitHub Repository  
-[Insert Your GitHub Repo Link Here]  
+[https://github.com/VivaanN98/IADAI203-1000064-Vivaan_Nayak_]  
 
 --- 
